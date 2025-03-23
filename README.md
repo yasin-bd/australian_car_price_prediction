@@ -1,4 +1,4 @@
-# **Car Price Prediction Using Machine Learning**
+# **Predicting Australian Car Price: ML and DL Approach**
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
